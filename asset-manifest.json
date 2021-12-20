@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bc6cc22.chunk.css",
+    "main.js": "/static/js/main.ae6ac932.chunk.js",
+    "main.js.map": "/static/js/main.ae6ac932.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4131fd10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4131fd10.js.map",
+    "static/js/2.9bd7a660.chunk.js": "/static/js/2.9bd7a660.chunk.js",
+    "static/js/2.9bd7a660.chunk.js.map": "/static/js/2.9bd7a660.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4bc6cc22.chunk.css.map": "/static/css/main.4bc6cc22.chunk.css.map",
+    "static/js/2.9bd7a660.chunk.js.LICENSE.txt": "/static/js/2.9bd7a660.chunk.js.LICENSE.txt",
+    "static/media/chanelBgImg.637a60c8.png": "/static/media/chanelBgImg.637a60c8.png",
+    "static/media/logo-black.c4107130.svg": "/static/media/logo-black.c4107130.svg",
+    "static/media/logo-light.540953d0.svg": "/static/media/logo-light.540953d0.svg",
+    "static/media/App.scss": "/static/media/mulish-v7-latin_cyrillic-regular.400ab738.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4131fd10.js",
+    "static/js/2.9bd7a660.chunk.js",
+    "static/css/main.4bc6cc22.chunk.css",
+    "static/js/main.ae6ac932.chunk.js"
+  ]
+}
